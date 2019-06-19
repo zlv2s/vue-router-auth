@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "core-js": "^2.6.5",
     "vue": "^2.6.6",
     "vue-router": "^3.0.1",
@@ -24,5 +25,8 @@
     "node-sass": "^4.9.0",
     "sass-loader": "^7.1.0",
     "vue-template-compiler": "^2.5.21"
-  }
+  },
+  "main": "index.js",
+  "author": "zlv2s <706809256@qq.com>",
+  "license": "MIT"
 }
