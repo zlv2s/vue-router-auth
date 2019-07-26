@@ -1,5 +1,7 @@
 # vue-router-auth
 
+[后端仓库地址](https://github.com/zlv2s/auth-server)
+
 ## Project setup
 ```
 npm install
@@ -14,16 +16,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
